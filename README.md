@@ -10,11 +10,8 @@ Di dalam program menggunakan Arduino IDE sebagai compiler, untuk real hardware m
 4. MOSFET AO3401 sebagai control PWM kecerahan 7Seg.
 5. DS3231 sebagai RTC.
 
-Dalam pembuatan Hardware untuk downloader sudah menggunakan Downloader CP2102, tanpa ada tombol tambahan di board sehingga saat
-proses download tidak perlu ada yang ditekan lagi.
-
+Dalam pembuatan Hardware untuk downloader sudah menggunakan Downloader CP2102, tanpa ada tombol tambahan di board sehingga saat proses download tidak perlu ada yang ditekan lagi.
 @Untuk setting jam yang ada, menggunakan HTML dengan sedikit modif tampilan (saya tidak mahir untuk HTML, CSS dst) tidak saya share.
-
 @Saya sertakan untuk file eagle drive dan seven segment, untuk pcb esp tidak saya share.
 
 @ : contact me at 
