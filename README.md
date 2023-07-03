@@ -1,5 +1,6 @@
 # Seven-Segment-With-Shift-Register-74595-Clock-Display
-
+* Use Translate Tool for other language
+  
 Hanya kode untuk bermain dengan beberapa modul serta menambah pengetahuan akan kode.
 
 Di dalam program menggunakan Arduino IDE sebagai compiler, untuk real hardware menggunakan :
@@ -11,4 +12,9 @@ Di dalam program menggunakan Arduino IDE sebagai compiler, untuk real hardware m
 
 Dalam pembuatan Hardware untuk downloader sudah menggunakan Downloader CP2102, tanpa ada tombol tambahan di board sehingga saat
 proses download tidak perlu ada yang ditekan lagi.
-Untuk setting jam yang ada, menggunakan HTML dengan sedikit modif tampilan (saya tidak mahir untuk HTML, CSS dst).
+@Untuk setting jam yang ada, menggunakan HTML dengan sedikit modif tampilan (saya tidak mahir untuk HTML, CSS dst) tidak saya share.
+@Saya sertakan untuk file eagle drive dan seven segment, untuk pcb esp tidak saya share.
+
+@ : contact me at 
+    IG     : zainanwar38
+    Email  : zainanwar38@gmail.com
